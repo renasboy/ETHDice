@@ -1,2 +1,2 @@
 # ETHDice
-Ethereum Double Dice Game
+Ethereum Dice Game
