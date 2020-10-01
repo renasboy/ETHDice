@@ -1,2 +1,2 @@
 # ETHDice
-Ethereum Dice Game
+Dice Game Based on Ethereum Blockchain and Smart contract 
